@@ -1,0 +1,1 @@
+var SubDomain = 'jameelfragrance'; var SiteID = 'BFB84475-5D2F-4D97-B85C-FFBD85391AB2'; var host = 'https://api.eraconnect.net';
