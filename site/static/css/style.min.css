@@ -84,7 +84,8 @@
     border-bottom: 2px solid black!important;
 }
 .header-logo img{
-    width: unset !important;
+    width: 32px;
+    height:32px;
 }
 .modal-content{
     padding: 20px!important;
